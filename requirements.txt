@@ -7,3 +7,4 @@ torchvision
 streamlit
 joblib
 opencv-python
+scikit-learn
