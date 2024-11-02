@@ -6,3 +6,4 @@ torch
 torchvision
 streamlit
 joblib
+opencv-python
